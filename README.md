@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorsgk&theme=github_dark) | ![Streak Stats](https://streak-stats.demolab.com?user=vitorsgk&theme=whatsapp-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=EB545400)
+
 <!--
 **vitorsgk/vitorsgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
